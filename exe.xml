@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<SimBase.Document Type="Launch" version="1,0">
+  <Descr>Launch</Descr>
+  <Filename>exe.xml</Filename>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  
+  <Launch.Addon>
+    <Name>CumulusX</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\CumulusX!\CumulusX.exe</Path>
+    <CommandLine></CommandLine>
+  </Launch.Addon>
+
+  <Launch.Addon>
+    <Name>sim_probe</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\sim_probe\sim_probe.exe</Path>
+    <CommandLine>log="C:\\Documents and Settings\\Ian\\My Documents\\fs\\igc_files\\"</CommandLine>
+  </Launch.Addon>
+
+
+</SimBase.Document>
