@@ -3,7 +3,6 @@
 *************************************
 
 Author: Ian Forster-Lewis
-Homepage: http://carrier.csi.cam.ac.uk/forsterlewis/soaring/sim/fsx/dev/sim_probe/
 
 This is the FSX add-on that calculates ridge lift directly from the terrain and
 prevailing wind, passing the value to CumulusX! for use within FSX.
